@@ -15,11 +15,11 @@ developer Aleksandr Kolesnikov
 
 1. Клонируйте репозиторий с помощью команды:
 
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/ultrabyte-coder/Digit_Clock
 
 2. Перейдите в директорию проекта:
 
-cd your_repository
+cd Digit_Clock
 
 3. Запустите скрипт `digit_clock.py`:
 
@@ -59,11 +59,11 @@ To run the script, you need to install the following dependencies:
 
 1. Clone the repository using the command:
 
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/ultrabyte-coder/Digit_Clock
 
 2. Navigate to the project directory:
 
-cd your_repository
+cd Digit_Clock
 
 3. Run the digit_clock.py script:
 
